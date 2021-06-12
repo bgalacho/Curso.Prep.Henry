@@ -1,0 +1,7 @@
+Variable: En programación, una Variable es una manera de guardar el valor de algo. Ese "algo" puede ser un nombre, número, letra, palabra, etc. Para asignarle el valor a la variable debemos usar el signo igual (=). Existen 3 formas de para crear una variable: var, let y const. Var es la más utilizada. Let es similar a var pero se comporta de manera un poco diferente. En cuanto a const, es una variable que es constante, entonces esta no se podrá cambiar.
+Strings: las estrings son letras, palabras o texto. Siempre se escriben entre comillas. Ej: var nombrePerro = "Mimi"
+Funciones: Una función es un listado de órdenes al que le pones un nombre, al que después podés usar para decirle a la computadora que las realice.
+Argumentos: Es la información que le das a la función para que opere. Por ejemplo, la función puede ser comprar manzanas y el argumento la cantidad de manzanas a comprar.
+Return: Return se utiliza cuando necesitamos que la función nos devuelva algo. Por ejemplo la suma de dos números.
+Controles de flujo y comparación: Nos sirve para que nuestra función pueda verificar si algo es verdadero o falso. Para ello, se utiliza la palabra "if" que le da la orden de que si es verdadero que nos lo diga,en caso contrario que nos devuelva falso.
+Valores booleanos: Los valores booleanos siguen la lógica de Boole. Esta lógica esta expresada en valores binarios, es decir en ceros y unos (0110101001). Dentro de JS se usan los booleanos para los valores true y false.
