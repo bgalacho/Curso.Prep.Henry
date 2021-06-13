@@ -1,0 +1,5 @@
+&&: Es parte de los operadores lógicos. En español su significado es "y". Cuando escribimos && se evaluarán ambas expresiones son true, como así también si ambas o una es falsa, devolverá false.
+||: En este caso su significado es "O".
+!: El ultimo es el operador "NO". 
+En los 3 casos, son operadores lógicos, es por esto que se utiliza la lógica booleana, y devolverá true o false.
+Bucles for: Primero definiría que es un bucle. El bucle es algo que empieza, termina y vuelve a comenzar. Pueden ser infinitos. El bucle for tiene 3 expresiones. En la primera se inicia una variable, la tercera se ejecuta al finalizar cada ejecución del bucle y la segunda se evalúa para saber si se debe repetir o no el bucle. Si la expresión es true, entonces el bucle se repite, en caso contrario se detiene.
